@@ -2,4 +2,4 @@
 
 ## Landing Page
 
-### Will eventually contain links to all other perosnal AI/AGI research project apps.
+### Will eventually contain portfolio and links to all other perosnal and business AI/AGI project apps.
