@@ -1,4 +1,4 @@
-# [Daizy AI](https://www.daizyai.tech)
+# [Daizy AI](https://www.daisyengineering.com)
 
 ## Landing Page
 
